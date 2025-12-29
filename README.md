@@ -1,0 +1,2 @@
+# Una-revisi-n-al-concepto-del-tiempo-en-la-f-sica
+Se analiza el concepto de tiempo en sus dimensiones cognitiva, cultural y filosófica, y su impacto histórico en el surgimiento de métodos matemáticos clave para la ciencia moderna. Se recorren sus formulaciones en la mecánica newtoniana, la relatividad y la mecánica cuántica, cerrando con problemas actuales como la flecha del tiempo y la cuántica.
